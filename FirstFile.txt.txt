@@ -1,1 +1,2 @@
 This is where we have first line of file.
+This is second line from feature2 branch.
